@@ -1,4 +1,4 @@
-# 3.0 Algorithm Suitability Review
+## 3.0 Algorithm Suitability Review
 
 
 1.	**Sorting**
