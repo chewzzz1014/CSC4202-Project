@@ -24,7 +24,7 @@
        - They may require extensive problem modeling and dynamic state transitions, which can be challenging to implement and maintain.
 
 
-4.	Greedy Algorithms:
+4.	**Greedy Algorithms**
     1. Strengths:
        - Greedy algorithms are simple and intuitive, making them easy to implement and understand.
        - They can be effective in certain scenarios, such as optimizing deliveries based on distance or minimizing delivery time. 
@@ -32,7 +32,7 @@
        - Greedy algorithms may not always lead to an optimal solution since they make locally optimal choices without considering the global consequences.
        - They may overlook other important factors like food item sensitivity or real-time monitoring, which can affect the overall quality of delivered food.
 
-5.	Graph Algorithms: 
+5.	**Graph Algorithms** 
     1. Strengths:
        - Graph algorithms, such as Dijkstra's algorithm or A* search, can be applied to optimize the delivery routes and prioritize time-sensitive deliveries.
        - They can consider factors like distance, traffic conditions, and delivery time windows to minimize overall delivery time and maintain food quality. 
