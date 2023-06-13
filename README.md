@@ -7,6 +7,12 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Our Project Kanban Board (<a href="https://github.com/users/chewzzz1014/projects/5/views/2">https://github.com/users/chewzzz1014/projects/5/views/2</a>)</p></figcaption></figure>
 
+## Group Members
+
+
+
+
+
 ## Table of Contents
 
 [**Part 1 – Introduction**](part\_1\_introduction/)
