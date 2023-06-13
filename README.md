@@ -3,7 +3,9 @@
 ## Overview
 
 * Project for course **CSC4202 DESIGN AND ANALYSIS OF ALGORITHMS**
-* Refer project Kanban Board at https://github.com/users/chewzzz1014/projects/5/views/2
+* [Check out our project flow Kanban Board!](https://github.com/users/chewzzz1014/projects/5/views/2)
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Our Project Kanban Board (<a href="https://github.com/users/chewzzz1014/projects/5/views/2">https://github.com/users/chewzzz1014/projects/5/views/2</a>)</p></figcaption></figure>
 
 ## Table of Contents
 
