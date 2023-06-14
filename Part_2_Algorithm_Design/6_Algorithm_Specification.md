@@ -5,14 +5,14 @@
     * Geographical Setting: Food delivery industry, covering urban and suburban areas.
     * Importance of AAD: AAD is crucial for optimizing delivery routes and delivery order assignment, minimizing delays, and ensuring food arrives in optimal condition.
     * Goal: Provide exceptional service to customers by minimizing delivery distance and ensuring food quality, thus enhancing customer satisfaction and loyalty.
-    * Expected Output: Optimal delivery routes and order assignment that result in efficient and timely deliveries, preserving food quality.
+    * Expected Output: Optimal delivery routes and order assignments that result in efficient and timely deliveries, preserving food quality.
 
 
 2.  Development of a Model:
 
-    * Data Type: Inputs include restaurant locations, customer locations, food orders with descriptions and quantities, delivery time windows, real-time traffic updates.
-    * Objective Function: Minimize the total distance traveled, considering time constraints, food contents, and delivery windows.
-    * Constraints: Time windows for deliveries, capacity constraints for drivers, real-time traffic conditions.
+    * Data Type: Inputs include restaurant locations, delivery locations, food orders with descriptions and quantities, delivery time windows, and real-time traffic updates.
+    * Objective Function: Minimize the total distance travelled, considering time constraints, food contents, and delivery windows.
+    * Constraints: Time windows for deliveries, capacity constraints for drivers, and real-time traffic conditions.
 
 
 3. Specification of Dijkstra's Algorithm:
@@ -27,20 +27,7 @@
 
 4. Designing the Dijkstra's Algorithm:
 
-{% code overflow="wrap" %}
-```
-   DijkstraAlgorithm(Graph, StartNode):
-   Initialize distance and previous node arrays 
-   Set distance of StartNode to 0
-   // Get node with the minimum distance from Q
-   Create a priority queue (min-heap) Q while Q is not empty: current = Q.extractMin() 
-
-   for each neighbor in current's adjacent nodes: 
-   calculate newDistance = distance[current] + distanceBetween(current, neighbor) 
-   if newDistance < distance[neighbor]: 
-   distance[neighbor] = newDistance previous[neighbor] = current Q.decreaseKey(neighbor, 	newDistance) Return distance and previous arrays
-```
-{% endcode %}
+&#x20;       The pseudocode for the optimized algorithm had been specified in the [previous section](../part\_2\_algorithm\_design/5\_algorithm\_design/5.3\_best\_travelling\_route.md).
 
 5. Checking the Correctness of the Algorithm:
 
