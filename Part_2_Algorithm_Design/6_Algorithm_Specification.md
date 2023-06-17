@@ -27,21 +27,21 @@
 
 4. Designing the Dijkstra's Algorithm:
 
-&#x20;       The pseudocode for the optimized algorithm had been specified in the [previous section](../part\_2\_algorithm\_design/5\_algorithm\_design/5.3\_best\_travelling\_route.md).
+&#x20;     The pseudocode for the optimized algorithm had been specified in the [previous section](../part\_2\_algorithm\_design/5\_algorithm\_design/5.3\_best\_travelling\_route.md).
 
 5. Checking the Correctness of the Algorithm:
 
-* Perform asymptotic analysis and recurrence relations to ensure the correctness of Dijkstra's algorithm.
+&#x20;        Perform asymptotic analysis and recurrence relations to ensure the correctness of Dijkstra's algorithm.
 
 6. Analysis of the Algorithm:
 
-* Analyze the worst-case, best-case, and average-case time complexity and space complexity of the algorithm to evaluate its efficiency and scalability.
+&#x20;     Analyze the worst-case, best-case, and average-case time complexity and space complexity of the algorithm to evaluate its efficiency and scalability.
 
-7. Implementation of the Algorithm:
+7. Implementation of the Algorithm
 
-* Choose a programming language of your preference (e.g., Python, Java) and implement Dijkstra's algorithm according to the designed specification.
+&#x20;      Choose a programming language of your preference (e.g., Python, Java) and implement Dijkstra's algorithm according to the designed specification.
 
-8. Program Testing:
+7. Program Testing:
 
 * Develop a testing strategy to verify the correctness and effectiveness of the implemented algorithm. Test the algorithm against various scenarios, including different delivery orders, time windows, and traffic conditions. Validate that the algorithm produces optimized delivery routes.
 
