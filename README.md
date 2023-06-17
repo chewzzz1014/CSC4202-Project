@@ -37,3 +37,10 @@
 * [6.0 Algorithm Specification](Part\_2\_Algorithm\_Design/6\_Algorithm\_Specification.md)
 
 [**Part 3 – Implementation of Algorithm**](part\_3\_implementation/)
+
+* [7.0 Coding](part\_3\_implementation/7.0-coding/)
+  * [7.1 Algorithm Implementations](part\_3\_implementation/7.0-coding/7.1-algorithm-implementations.md)
+  * [7.2 Algorithm Descriptions](part\_3\_implementation/7.0-coding/7.2-algorithm-descriptions.md)
+  * [7.3 Demonstration](part\_3\_implementation/7.0-coding/7.3-demonstration.md)
+  * [7.4 Results](part\_3\_implementation/7.0-coding/7.4-results.md)
+  * [7.5 Analysis of Algorithms](part\_3\_implementation/7.0-coding/7.5-analysis-of-algorithms.md)
