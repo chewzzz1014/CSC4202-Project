@@ -23,4 +23,6 @@
     * [7.2 Algorithm Descriptions](part\_3\_implementation/7.0-coding/7.2-algorithm-descriptions.md)
     * [7.3 Demonstration](part\_3\_implementation/7.0-coding/7.3-demonstration.md)
     * [7.4 Results](part\_3\_implementation/7.0-coding/7.4-results.md)
-    * [7.5 Analysis of Algorithms](part\_3\_implementation/7.0-coding/7.5-analysis-of-algorithms.md)
+    * [7.5 Analysis of Algorithm](part\_3\_implementation/7.0-coding/7.5-analysis-of-algorithm/README.md)
+      * [7.5.1 Correctness of the Algorithm](part\_3\_implementation/7.0-coding/7.5-analysis-of-algorithm/7.5.1-correctness-of-the-algorithm.md)
+      * [7.5.2 Time Complexity Analysis](part\_3\_implementation/7.0-coding/7.5-analysis-of-algorithm/7.5.2-time-complexity-analysis.md)
